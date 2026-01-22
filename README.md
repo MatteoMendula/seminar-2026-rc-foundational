@@ -1,6 +1,6 @@
 # Reservoir Computing in the Wild: From Energy-Efficient Digital Twins to Foundational Dynamical Substrates
 
-![Status](https://img.shields.io/badge/Status-Upcoming-blue) ![Date](https://img.shields.io/badge/Date-Feb%2011%2C%202026-orange) ![Speaker](https://img.shields.io/badge/Speaker-Dr.%20Matteo%20Mendula-green)
+![Status](https://img.shields.io/badge/Status-Upcoming-blue) ![Date](https://img.shields.io/badge/Date-Feb%2018%2C%202026-orange) ![Speaker](https://img.shields.io/badge/Speaker-Dr.%20Matteo%20Mendula-green)
 
 ### 📅 **Event Details**
 - **Date:** Wednesday, February 18, 2026
