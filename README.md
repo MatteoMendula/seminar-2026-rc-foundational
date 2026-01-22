@@ -19,7 +19,7 @@ The remarkable success of attention-based models (Transformers) has set a high b
 We will explore three key evolutionary phases of this technology:
 
 ### 1. The Optimization Phase: Breaking the Training Bottleneck
-We address the historical difficulty of tuning RC hyperparameters. By introducing an **adaptive $\epsilon$-Greedy search strategy**, we demonstrate:
+We address the historical difficulty of tuning RC hyperparameters. By introducing an **adaptive ε-Greedy search strategy**, we demonstrate:
 * **70% reduction** in offline optimization time.
 * **88% reduction** in energy consumption.
 * Seamless online adaptation using Recursive Least Squares (RLS) with minimal memory overhead.
@@ -53,7 +53,8 @@ His research focuses on bridging the gap between the computational efficiency of
 
 To ensure reproducibility, the code and datasets discussed in this seminar are available in the following repositories:
 
-* **$\epsilon$-Greedy Optimization:** [`ijcnn-2025-epsilongreedy-rc`](https://gitlab.cttc.es/supercom/ijcnn-2025-epsilongreedy-rc)
+* **DARE-ML:** [`dare-ml`]([https://gitlab.cttc.es/supercom/afp-dt-fgcs](https://gitlab.cttc.es/supercom/dare-ml-eesp-2025))
+* **ε-Greedy Optimization:** [`ijcnn-2025-epsilongreedy-rc`](https://gitlab.cttc.es/supercom/ijcnn-2025-epsilongreedy-rc)
 * **Adaptive Fidelity Profiling (DTs):** [`afp-dt-fgcs`](https://gitlab.cttc.es/supercom/afp-dt-fgcs)
 
 ---
@@ -61,9 +62,14 @@ To ensure reproducibility, the code and datasets discussed in this seminar are a
 ## 📝 Citation
 If you find these concepts useful for your research, please consider citing our recent works:
 
-> M. Mendula, M. Miozzo, P. Dini, *"Reservoir Computing in Real-World Environments: Optimizing the Cost of Offline and Online Training,"* 2025.
+> M. Mendula, C. Leonelli, M. Miozzo, P. Dini, *"DARE-ML: Democratized Accessible Resource Environment for Machine Learning in the SUPERCOM Platform."*, ISC High Performance 2025 International Workshops, Hamburg, Germany, 2025.
+
+> M. Mendula, M. Miozzo, P. Dini, *"Reservoir Computing in Real-World Environments: Optimizing the Cost of Offline and Online Training,"* IJCNN, Rome, Italy, 2025.
 
 > M. Mendula, M. Miozzo, P. Bellavista, P. Dini, *"Reservoir computing for enhanced fidelity in hierarchical digital twin ecosystems,"* Future Generation Computer Systems, 2026.
+
+
+
 
 ---
 *Organized by CTTC - Sustainable Artificial Intelligence Research Unit*
