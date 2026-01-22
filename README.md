@@ -53,7 +53,7 @@ His research focuses on bridging the gap between the computational efficiency of
 
 To ensure reproducibility, the code and datasets discussed in this seminar are available in the following repositories:
 
-* **DARE-ML:** [`dare-ml`]([https://gitlab.cttc.es/supercom/afp-dt-fgcs](https://gitlab.cttc.es/supercom/dare-ml-eesp-2025))
+* **DARE-ML:** [`dare-ml`](https://gitlab.cttc.es/supercom/dare-ml-eesp-2025)
 * **ε-Greedy Optimization:** [`ijcnn-2025-epsilongreedy-rc`](https://gitlab.cttc.es/supercom/ijcnn-2025-epsilongreedy-rc)
 * **Adaptive Fidelity Profiling (DTs):** [`afp-dt-fgcs`](https://gitlab.cttc.es/supercom/afp-dt-fgcs)
 
